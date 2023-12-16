@@ -1,6 +1,6 @@
-Learn how to build an LM yourself:
+Following a YouTube lecture about creating a small LLM
 
-Andrej Karpathy course
+Andrej Karpathy course (nanoGPT), learn yourself
 https://www.youtube.com/watch?v=kCc8FmEb1nY
 
 Sample output:
